@@ -1,13 +1,11 @@
 0.6
 2019.2
 Nov  6 2019
-21:57:16
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_example.sv,1707461110,systemVerilog,,,,tb_example,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder.sv,1707462149,systemVerilog,,,,tb_fulladder,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder32.sv,1707464579,systemVerilog,,,,tb_fulladder32,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder4.sv,1707462840,systemVerilog,,,,tb_fulladder4,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/Example.sv,1707460662,systemVerilog,,D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_example.sv,,example,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder.sv,1707461958,systemVerilog,,D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder32.sv,,fulladder,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder32.sv,1707464410,systemVerilog,,D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder4.sv,,fulladder32,,,,,,,,
-D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder4.sv,1707463354,systemVerilog,,D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder32.sv,,fulladder4,,,,,,,,
+21:42:20
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.sim/sim_1/behav/xsim/glbl.v,1708015416,verilog,,,,glbl,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_alu.sv,1708016758,systemVerilog,,,,tb_miriscv_alu,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/alu_opcodes_pkg.sv,1708016011,systemVerilog,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_alu.sv;/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/alu_riscv.sv,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/alu_riscv.sv,,alu_opcodes_pkg,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/alu_riscv.sv,1708018336,systemVerilog,,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder.sv,,alu_riscv,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder.sv,1708015416,systemVerilog,,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder32.sv,,fulladder,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder32.sv,1708015416,systemVerilog,,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder4.sv,,fulladder32,,,,,,,,
+/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sources_1/new/fulladder4.sv,1708015416,systemVerilog,,/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_alu.sv,,fulladder4,,,,,,,,

@@ -10,7 +10,7 @@ module alu_riscv(
 import alu_opcodes_pkg::*;
 
 logic alu_add_wire;
-adder full_adder32(a_i, b_i, 1'b0, alu_add_wire);
+adder fulladder32(a_i, b_i, 1'b0, alu_add_wire);
 
 always_comb begin : ALU_RISC_V
     case (alu_op_i)

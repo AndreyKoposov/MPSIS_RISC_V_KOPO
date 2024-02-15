@@ -7,9 +7,9 @@ Start test:
 CLICK THE BUTTON 'Run All'
 ==========================
 
-$stop called at time : 0 fs : File "D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder32.sv" Line 44
+$stop called at time : 0 fs : File "/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_alu.sv" Line 53
 Number of errors:           0
 
-fulladder32 SUCCESS!!!
+ALU SUCCESS!!!
 
-$finish called at time : 300 us : File "D:/8213531/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_fulladder32.sv" Line 56
+$finish called at time : 1 ms : File "/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.srcs/sim_1/new/tb_alu.sv" Line 66

@@ -1,7 +1,7 @@
-Running: xsim.dir/tb_miriscv_alu_behav/xsimk -simmode gui -wdb tb_miriscv_alu_behav.wdb -simrunnum 0 -socket 39981
+Running: xsim.dir/tb_miriscv_alu_behav/xsimk -simmode gui -wdb tb_miriscv_alu_behav.wdb -simrunnum 0 -socket 39635
 Design successfully loaded
 Design Loading Memory Usage: 34236 KB (Peak: 34416 KB)
-Design Loading CPU Usage: 40 ms
+Design Loading CPU Usage: 20 ms
 Simulation completed
 Simulation Memory Usage: 117340 KB (Peak: 173504 KB)
-Simulation CPU Usage: 140 ms
+Simulation CPU Usage: 120 ms

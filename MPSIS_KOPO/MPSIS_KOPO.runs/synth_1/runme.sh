@@ -6,14 +6,10 @@
 # Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 # 
 
-echo "This script was generated under a different operating system."
-echo "Please update the PATH and LD_LIBRARY_PATH variables below, before executing this script"
-exit
-
 if [ -z "$PATH" ]; then
-  PATH=C:/Xilinx/Vivado/2019.2/ids_lite/ISE/bin/nt64;C:/Xilinx/Vivado/2019.2/ids_lite/ISE/lib/nt64:C:/Xilinx/Vivado/2019.2/bin
+  PATH=/tools/Xilinx/Vivado/2019.2/ids_lite/ISE/bin/lin64:/tools/Xilinx/Vivado/2019.2/bin
 else
-  PATH=C:/Xilinx/Vivado/2019.2/ids_lite/ISE/bin/nt64;C:/Xilinx/Vivado/2019.2/ids_lite/ISE/lib/nt64:C:/Xilinx/Vivado/2019.2/bin:$PATH
+  PATH=/tools/Xilinx/Vivado/2019.2/ids_lite/ISE/bin/lin64:/tools/Xilinx/Vivado/2019.2/bin:$PATH
 fi
 export PATH
 
@@ -24,7 +20,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='D:/8213531/MPSIS_KOPO/MPSIS_KOPO.runs/synth_1'
+HD_PWD='/home/pin_34_13/MPSIS/MPSIS_RISC_V_KOPO/MPSIS_KOPO/MPSIS_KOPO.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -40,4 +36,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log nexys_adder.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source nexys_adder.tcl
+EAStep vivado -log nexys_alu.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source nexys_alu.tcl
